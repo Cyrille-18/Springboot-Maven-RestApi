@@ -3,7 +3,7 @@ L'objectif de  ce projet est de mettre en place une API REST permettant de gére
 
 Les données sont stockées en mémoire à des fins de test.
 
-## Fonctionalités 
+## Fonctionnalités 
 * Créer un employé
 * Lire les informations des employés
 * mettre à jour les données des employés
